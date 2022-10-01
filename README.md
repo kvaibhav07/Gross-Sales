@@ -1,4 +1,4 @@
-#Turnover
+#Gross Sales
 
 ### Used tool in project :
 - JDK 11
@@ -9,13 +9,13 @@
 
 ### Project Structure :
 ####Java Packages :
-- com.turn.over.portal.Business(Calculate the requirement)
-- com.turn.over.portal.Constant(Keep constant value)
-- com.turn.over.portal.Controller(Rest API call)
-- com.turn.over.portal.Model(Java object fields)
-- com.turn.over.portal.Scheduler(Schedule task)
-- com.turn.over.portal.Turnover(Spring boot main class)
-- com.turn.over.portal.Util(Project utility)
+- com.gross.sales.portal.Business(Calculate the requirement)
+- com.gross.sales.portal.Constant(Keep constant value)
+- com.gross.sales.portal.Controller(Rest API call)
+- com.gross.sales.portal.Model(Java object fields)
+- com.gross.sales.portal.Scheduler(Schedule task)
+- com.gross.sales.portal.Turnover(Spring boot main class)
+- com.gross.sales.portal.Util(Project utility)
 
 ### Java Resource :
 - application.properties(Configuration of project)
